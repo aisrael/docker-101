@@ -7,7 +7,8 @@ For the latest version, visit [github.com/aisrael/docker-101](https://github.com
 * **Docker Essentials**
     * [Why Docker?](basics-why-docker.md)
     * [Up & Running](basics-installation.md)
-    * [Basic Command](basics-commands.md)
+    * [Basic Commands](basics-commands.md)
+    * [Docker Networking](basics-networking.md)
 * The Dockerfile
     * [Our First Dockerfile](dockerfile-first.md)
 * Docker Compose
