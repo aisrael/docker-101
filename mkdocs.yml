@@ -1,0 +1,9 @@
+site_name: Docker 101
+nav:
+  - Home: index.md
+  - Docker Essentials:
+    - Why Docker?: basics-why-docker.md
+    - Up & Running: basics-installation.md
+    - Basic Commands: basics-commands.md
+  - The Dockerfile:
+    - Our First Dockerfile: dockerfile-first.md
